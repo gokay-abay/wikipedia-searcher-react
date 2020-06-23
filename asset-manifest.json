@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gokay-abay/wikipedia-searcher-react.git/static/css/main.c30f7905.chunk.css",
-    "main.js": "/gokay-abay/wikipedia-searcher-react.git/static/js/main.e3d5ec51.chunk.js",
-    "main.js.map": "/gokay-abay/wikipedia-searcher-react.git/static/js/main.e3d5ec51.chunk.js.map",
-    "runtime-main.js": "/gokay-abay/wikipedia-searcher-react.git/static/js/runtime-main.e4c21bc6.js",
-    "runtime-main.js.map": "/gokay-abay/wikipedia-searcher-react.git/static/js/runtime-main.e4c21bc6.js.map",
-    "static/js/2.63b53d42.chunk.js": "/gokay-abay/wikipedia-searcher-react.git/static/js/2.63b53d42.chunk.js",
-    "static/js/2.63b53d42.chunk.js.map": "/gokay-abay/wikipedia-searcher-react.git/static/js/2.63b53d42.chunk.js.map",
-    "index.html": "/gokay-abay/wikipedia-searcher-react.git/index.html",
-    "precache-manifest.f19e6cc23d286af44d9ea0a8a106220f.js": "/gokay-abay/wikipedia-searcher-react.git/precache-manifest.f19e6cc23d286af44d9ea0a8a106220f.js",
-    "service-worker.js": "/gokay-abay/wikipedia-searcher-react.git/service-worker.js",
-    "static/css/main.c30f7905.chunk.css.map": "/gokay-abay/wikipedia-searcher-react.git/static/css/main.c30f7905.chunk.css.map",
-    "static/js/2.63b53d42.chunk.js.LICENSE.txt": "/gokay-abay/wikipedia-searcher-react.git/static/js/2.63b53d42.chunk.js.LICENSE.txt"
+    "main.css": "/wikipedia-searcher-react/static/css/main.c30f7905.chunk.css",
+    "main.js": "/wikipedia-searcher-react/static/js/main.e3d5ec51.chunk.js",
+    "main.js.map": "/wikipedia-searcher-react/static/js/main.e3d5ec51.chunk.js.map",
+    "runtime-main.js": "/wikipedia-searcher-react/static/js/runtime-main.6a7c9f93.js",
+    "runtime-main.js.map": "/wikipedia-searcher-react/static/js/runtime-main.6a7c9f93.js.map",
+    "static/js/2.63b53d42.chunk.js": "/wikipedia-searcher-react/static/js/2.63b53d42.chunk.js",
+    "static/js/2.63b53d42.chunk.js.map": "/wikipedia-searcher-react/static/js/2.63b53d42.chunk.js.map",
+    "index.html": "/wikipedia-searcher-react/index.html",
+    "precache-manifest.d8a94b5334e0ce3cc2be7745015fb766.js": "/wikipedia-searcher-react/precache-manifest.d8a94b5334e0ce3cc2be7745015fb766.js",
+    "service-worker.js": "/wikipedia-searcher-react/service-worker.js",
+    "static/css/main.c30f7905.chunk.css.map": "/wikipedia-searcher-react/static/css/main.c30f7905.chunk.css.map",
+    "static/js/2.63b53d42.chunk.js.LICENSE.txt": "/wikipedia-searcher-react/static/js/2.63b53d42.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4c21bc6.js",
+    "static/js/runtime-main.6a7c9f93.js",
     "static/js/2.63b53d42.chunk.js",
     "static/css/main.c30f7905.chunk.css",
     "static/js/main.e3d5ec51.chunk.js"
